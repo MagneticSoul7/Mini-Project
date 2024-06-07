@@ -2,10 +2,6 @@
 Activity #26 in 01-html-git-css
 
 
-
-
-# Your Project Title 
-
 ## Technology Used 
 
 | Technology Used         | Resource URL           | 
@@ -16,7 +12,7 @@ Activity #26 in 01-html-git-css
 
 ## Description 
 
-[Visit the Deployed Site](https://youtu.be/BFyeuLhjcPY)
+[Visit the Deployed Site](website link will be added here)
 
 Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
 
@@ -24,9 +20,19 @@ The quality of a README often differentiates a good project from a bad project. 
 
 There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
 
-At a minimum, your project README needs a title and a short description explaining the what, why, and how. What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out? 
+what, why, and how. 
 
-Lastly, if your project is deployed, include a link to the deployed application here.
+What was your motivation? Why did you build this project? 
+
+What problem does it solve? 
+
+What did you learn? 
+
+What makes your project stand out? 
+
+
+Deployed Site: 
+
 
 If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -119,7 +125,9 @@ header {
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+-Instructions for use.
+-Examples for use. 
+-Screenshots.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
@@ -130,50 +138,24 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Learning Points 
 
-
-This is a good place to Explain what you Learned by creating this application.
-This is a great way to remind about all of the Complex Skills you now have.
-If the user is less experienced than you:
-They will be impressed by what you can do!
-
-If the user is more experienced than you:
-They will be impressed by what you can do!
-
-Remember, it is easy to forget exactly how Valuable and Impressive your skills are, as well as How Much You’ve Learned!
-So quantify that here!
+-Explain what you Learned by creating this application.
+-Explain skills you learned/used to make this site.
 
 
 ## Author Info
-
-```md
-### Farley Wittles 
 
 
 * [Portfolio](https://youtu.be/bHX54GCrDB4)
 * [LinkedIn](https://youtu.be/bHX54GCrDB4)
 * [Github](https://youtu.be/bHX54GCrDB4)
-```
-
-The user has looked through your whole README, and gotten familiar with your application. 
-This is where you take credit, and make it easy for them to learn more about you!
-Direct them to the following:
-- Your GitHub Profile
-- Your LinkedIn
-- Your Portfolio Website
-- And Anything Else You Want!
-
-Give credit where credit is due! 
-
-If you Pseudocode or Pair Program with someone else, give them kudos in your Contributors section!
-
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+-List your collaborators, if any, with links to their GitHub profiles.
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
-If you followed tutorials, include links to those here as well.
+-If you followed tutorials, include links to those here as well.
 
 
 ## License
@@ -181,23 +163,13 @@ If you followed tutorials, include links to those here as well.
 The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
 
 
----
-
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
 ## Badges
 
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
 
 ## Features
 
 If your project has a lot of features, consider adding a heading called "Features" and listing them there.
 
-## Contributing
-
-If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
 
 ## Tests
 
@@ -205,4 +177,11 @@ Go the extra mile and write tests for your application. Then provide examples on
 
 ---
 
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+### THIS SECTION IS TEMPORARY - WILL BE DELETED: 
+
+Stuff for me to reference while I am still making my ReadMe (WILL BE DELETED LATER AFTER I FINISH MAKING MY README).
+
+
+Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+
+![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath) 
